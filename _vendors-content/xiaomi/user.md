@@ -1,8 +1,8 @@
----
+--amir-
 manufacturer: 
     - xiaomi
 
----
+--mehrabi-
 
 ### App pinning / App locking
 
